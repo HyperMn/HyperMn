@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HyperMn
-- 👀 I’m interested in music, digital device, game.
-- 🌱 I’m currently learning computer graphics in Sichuan Univeristy, China. 
+- 👀 I’m interested in ``music``, ``digital device``, ``game``
+- 🌱 I’m currently learning ``Computer Graphics``
 - 📫 mail: hypermn@163.com
 
 <!---
